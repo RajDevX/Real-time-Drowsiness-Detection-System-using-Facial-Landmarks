@@ -42,3 +42,11 @@ The **Real-time Drowsiness Detection System** is designed to enhance safety by d
    https://github.com/RajDevX/Real-time-Drowsiness-Detection-System-using-Facial-Landmarks.git
    
    cd Real-time-Drowsiness-Detection-System-using-Facial-Landmarks
+2. Install Dependencies  
+   Ensure you have Python installed. Then, install the required dependencies:  
+   ```bash
+   pip install -r requirements.txt
+3. Run the Application
+   Execute the main script to start the real-time drowsiness detection system:  
+   ```bash
+   python main.py
